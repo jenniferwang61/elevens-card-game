@@ -1,0 +1,7 @@
+AP Computer Science A - Elevens (Activity 9)
+
+1. Size is an instance variable, so there's no need to make size an abstract method.
+
+2. Removing and replacing cards is the same throughout all of the games (tens, elevens, and thirteens). Thus, there is no need to make these abstract methods.
+
+3. I'm not sure -- I'll ask you about it on Tuesday. 
